@@ -37,6 +37,13 @@ namespace Pi
         static void Main(string[] args)
         {
             Pi(10000000); //The higher the number, the more exact PI you will get.
+            Console.WriteLine();
+            Console.WriteLine();
+
+
+
+            Console.WriteLine();
+            Console.WriteLine();
             Console.ReadLine();
         }
     }
